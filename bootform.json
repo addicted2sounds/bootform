@@ -1,0 +1,26 @@
+{
+  "name": "bootform",
+  "title": "Bootform",
+  "description": "The best jQuery plugin ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/addicted/bootform",
+  "author": {
+    "name": "addicted",
+    "email": "addicted22sounds@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/addicted/bootform.git"
+  },
+  "bugs": "https://github.com/addicted/bootform/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/addicted/bootform/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
